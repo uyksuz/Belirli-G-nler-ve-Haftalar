@@ -1,4 +1,4 @@
-# Belirli-Günler-ve-Haftalar-php-array
+# Belirli günler ve haftalar php array
 Türkiye için belirli günler ve haftalar php array
 
 
